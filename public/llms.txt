@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover your destiny through luxury astrology, tarot, and alchemical mysticism. Enter your time of birth and let the stars reveal what the universe has written for you.
+
+### Experiences
+https://example.com/services
+Explore opulent spiritual experiences — from birth chart analysis to Wheel of Fortune tarot sessions. Book a transformative reading crafted around your exact time of birth.
+
+### About
+https://example.com/about
+Meet Ivana — a high-end spiritual expert weaving astrology, tarot, and cosmic wisdom into gold-standard guidance. Does your birth certificate have time of birth? She will show you why it matters.
+
+### Contact
+https://example.com/contact
+Ready to decode your fate? Reach out to Ivana&#39;s Alchemy with your time of birth and unlock a luxury spiritual session designed exclusively around your cosmic signature.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
